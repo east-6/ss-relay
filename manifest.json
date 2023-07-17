@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Sithpedi Sözlüğü'ne Ekle",
+    "version": "1.0",
+    "description": "Sithpedi sunucusundaki Sithpedi Sözlüğü kanalına yeni sözlük girisi ekle",
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  

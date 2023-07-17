@@ -1,0 +1,43 @@
+body {
+    width: 300px;
+    font-family: Arial, sans-serif;
+    margin: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input,
+  select {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 6px;
+    font-size: 14px;
+  }
+  
+  button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 6px;
+    background-color: #3b82f6;
+    border: none;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2563eb;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #successMessage {
+    margin-top: 10px;
+    color: green;
+  }
+  
